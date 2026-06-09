@@ -1,0 +1,8 @@
+interface:
+  display_name: "张艺谋导演"
+  short_description: "把短剧转译为张艺谋启发的导演语言"
+  brand_color: "#B91C1C"
+  default_prompt: "用 $zhang-yimou-director 帮我把这个短剧剧本升级成张艺谋启发的导演版：强化视觉母题、色彩系统、群像调度、仪式感场面和可拍摄分镜。"
+
+policy:
+  allow_implicit_invocation: true
