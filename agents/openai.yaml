@@ -1,8 +1,8 @@
 interface:
   display_name: "张艺谋Skill"
-  short_description: "把短剧转译为张艺谋启发的导演语言"
+  short_description: "按张艺谋启发的导演操作系统生成短剧剧本、分镜图和视频prompt"
   brand_color: "#B91C1C"
-  default_prompt: "用 $zhang-yimou-director 帮我把这个短剧剧本升级成张艺谋启发的导演版：强化视觉母题、色彩系统、群像调度、仪式感场面和可拍摄分镜。"
+  default_prompt: "用 $zhang-yimou-director 帮我把这个短剧项目做成张艺谋启发的导演版：先锁风格，再生成规范剧本、专业分镜、分镜故事版和 Seedance 视频 prompt。"
 
 policy:
   allow_implicit_invocation: true
