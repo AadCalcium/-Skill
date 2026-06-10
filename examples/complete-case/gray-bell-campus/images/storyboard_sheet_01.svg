@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="2100" viewBox="0 0 1500 2100">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff7ea"/><stop offset="1" stop-color="#e8d2ab"/></linearGradient>
+    <linearGradient id="night" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#253f4a"/><stop offset="1" stop-color="#111615"/></linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6c0d12"/><stop offset="1" stop-color="#d33a25"/></linearGradient>
+    <filter id="s"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-opacity=".2"/></filter>
+  </defs>
+  <rect width="1500" height="2100" fill="url(#bg)"/>
+  <rect x="44" y="38" width="1412" height="2024" rx="26" fill="#fffaf0" stroke="#2a1a16" stroke-width="5"/>
+  <text x="750" y="105" text-anchor="middle" font-family="Georgia, 'Noto Serif SC', serif" font-size="46" fill="#2a1a16" font-weight="700">STORYBOARD BOARD / 灰铃 U01</text>
+  <text x="750" y="150" text-anchor="middle" font-family="Arial, 'Noto Sans SC'" font-size="23" fill="#6b5846">竖屏短剧 · 学生男主 · 丧尸循环重生 · 张艺谋启发式色彩/仪式/空间压力</text>
+  <g transform="translate(82 205)" font-family="Arial, 'Noto Sans SC'">
+    <rect width="1336" height="1720" fill="#f1e4cc" stroke="#2a1a16" stroke-width="4"/>
+    <g id="p1" transform="translate(32 32)">
+      <rect width="300" height="360" fill="url(#night)" stroke="#2a1a16" stroke-width="4" filter="url(#s)"/>
+      <rect x="30" y="60" width="240" height="54" fill="#293232"/><rect x="50" y="158" width="90" height="42" fill="#8a6a42"/><rect x="160" y="158" width="90" height="42" fill="#8a6a42"/><circle cx="150" cy="235" r="42" fill="#f0c6a4"/><path d="M105 222c30-70 95-62 105 0" fill="#111"/><rect x="122" y="278" width="56" height="40" rx="5" fill="url(#red)"/>
+      <text x="150" y="338" text-anchor="middle" font-size="22" fill="#fff4df">01 醒来</text>
+    </g>
+    <g transform="translate(368 32)">
+      <rect width="300" height="360" fill="#d8c097" stroke="#2a1a16" stroke-width="4" filter="url(#s)"/>
+      <rect x="28" y="42" width="244" height="110" fill="#2b3334"/><circle cx="150" cy="98" r="34" fill="#f1d7a8"/><path d="M135 96h20l15-15" stroke="#111" stroke-width="5" fill="none"/><rect x="74" y="220" width="152" height="68" fill="url(#red)" stroke="#fff0d7" stroke-width="4"/><circle cx="106" cy="254" r="18" fill="#f0c6a4"/>
+      <text x="150" y="338" text-anchor="middle" font-size="22" fill="#2a1a16">02 红卡特写</text>
+    </g>
+    <g transform="translate(704 32)">
+      <rect width="300" height="360" fill="#4a4136" stroke="#2a1a16" stroke-width="4" filter="url(#s)"/>
+      <path d="M0 260h300v100H0z" fill="#2b221d"/><g fill="#d9c7a6"><rect x="25" y="180" width="80" height="40"/><rect x="115" y="180" width="80" height="40"/><rect x="205" y="180" width="70" height="40"/></g><circle cx="150" cy="132" r="46" fill="#f0c6a4"/><path d="M98 122c28-75 100-70 112-4" fill="#111"/><path d="M44 306c44-74 158-74 212 0" fill="#1f3a4a"/>
+      <text x="150" y="338" text-anchor="middle" font-size="22" fill="#fff4df">03 空教室</text>
+    </g>
+    <g transform="translate(1040 32)">
+      <rect width="264" height="360" fill="#253f4a" stroke="#2a1a16" stroke-width="4" filter="url(#s)"/>
+      <rect x="45" y="55" width="174" height="230" fill="#111" stroke="#e8d2ab" stroke-width="5"/><circle cx="132" cy="138" r="44" fill="#f0c6a4"/><path d="M83 130c34-66 92-66 104 0" fill="#111"/><rect x="85" y="194" width="92" height="86" fill="#1f3a4a"/><path d="M70 310h124" stroke="#c73b25" stroke-width="10"/>
+      <text x="132" y="338" text-anchor="middle" font-size="22" fill="#fff4df">04 门框压迫</text>
+    </g>
+    <g transform="translate(32 440)">
+      <rect width="300" height="360" fill="#e5d2ad" stroke="#2a1a16" stroke-width="4" filter="url(#s)"/>
+      <g fill="#8a6a42"><rect x="42" y="82" width="82" height="38"/><rect x="176" y="82" width="82" height="38"/><rect x="42" y="198" width="82" height="38"/><rect x="176" y="198" width="82" height="38"/></g><circle cx="150" cy="168" r="44" fill="#f0c6a4"/><rect x="116" y="218" width="70" height="84" fill="#1f3a4a"/><path d="M44 54C120 118 192 118 256 54" stroke="#8d1117" stroke-width="8" fill="none"/>
+      <text x="150" y="338" text-anchor="middle" font-size="22" fill="#2a1a16">05 群体围观</text>
+    </g>
+    <g transform="translate(368 440)">
+      <rect width="300" height="360" fill="#111615" stroke="#2a1a16" stroke-width="4" filter="url(#s)"/>
+      <rect x="54" y="68" width="192" height="76" fill="url(#red)" stroke="#fff4df" stroke-width="5"/><path d="M46 232c64-48 154-48 208 0" stroke="#f1d7a8" stroke-width="16" fill="none"/><circle cx="150" cy="238" r="34" fill="#f0c6a4"/><path d="M120 254c18 18 44 18 62 0" stroke="#111" stroke-width="5" fill="none"/>
+      <text x="150" y="338" text-anchor="middle" font-size="22" fill="#fff4df">06 记忆闪回</text>
+    </g>
+    <g transform="translate(704 440)">
+      <rect width="300" height="360" fill="#3b2a20" stroke="#2a1a16" stroke-width="4" filter="url(#s)"/>
+      <rect x="40" y="54" width="220" height="112" fill="#293232"/><circle cx="70" cy="230" r="32" fill="#111"/><circle cx="148" cy="230" r="32" fill="#111"/><circle cx="226" cy="230" r="32" fill="#111"/><rect x="116" y="180" width="68" height="82" fill="#8d1117"/><path d="M56 290h190" stroke="#f1d7a8" stroke-width="8"/>
+      <text x="150" y="338" text-anchor="middle" font-size="22" fill="#fff4df">07 铃声审判</text>
+    </g>
+    <g transform="translate(1040 440)">
+      <rect width="264" height="360" fill="#e8d2ab" stroke="#2a1a16" stroke-width="4" filter="url(#s)"/>
+      <rect x="0" y="0" width="264" height="84" fill="#8d1117"/><circle cx="132" cy="166" r="52" fill="#f0c6a4"/><path d="M76 154c34-76 106-76 120 0" fill="#111"/><rect x="82" y="222" width="100" height="88" fill="#1f3a4a"/><path d="M84 252h100" stroke="#c73b25" stroke-width="12"/>
+      <text x="132" y="338" text-anchor="middle" font-size="22" fill="#2a1a16">08 反转睁眼</text>
+    </g>
+    <g transform="translate(32 865)">
+      <rect width="1272" height="240" fill="#fffaf0" stroke="#2a1a16" stroke-width="4"/>
+      <text x="36" y="58" font-size="28" fill="#2a1a16" font-weight="700">导演分镜表摘要</text>
+      <text x="36" y="105" font-size="22" fill="#3b2a20">视觉母题：红色学生卡 / 黄昏旧教室 / 铃声 / 课桌队列 / 门框压迫</text>
+      <text x="36" y="150" font-size="22" fill="#3b2a20">镜头节奏：先物件后人物，先空间后台词，群像围压到个人反击。</text>
+      <text x="36" y="195" font-size="22" fill="#3b2a20">Seedance 单元：U01，15 秒，竖屏 9:16，低机位慢推 + 突然静止。</text>
+    </g>
+    <g transform="translate(32 1160)">
+      <rect width="1272" height="480" fill="#2b221d"/>
+      <text x="36" y="62" font-size="28" fill="#fff4df" font-weight="700">故事版/九宫格要求</text>
+      <text x="36" y="116" font-size="22" fill="#f1d7a8">1. 故事版必须是可视图片，不接受纯文字占位。</text>
+      <text x="36" y="164" font-size="22" fill="#f1d7a8">2. 3x3 视频宫格必须无字幕、无镜号、无水印、无说明文字。</text>
+      <text x="36" y="212" font-size="22" fill="#f1d7a8">3. 人物、场景、分镜风格必须统一，所有图片进入 GitHub example。</text>
+      <rect x="710" y="74" width="490" height="310" fill="#e8d2ab" stroke="#fff4df" stroke-width="4"/>
+      <rect x="746" y="108" width="418" height="72" fill="#8d1117"/><rect x="746" y="204" width="120" height="82" fill="#253f4a"/><rect x="896" y="204" width="120" height="82" fill="#111"/><rect x="1046" y="204" width="120" height="82" fill="#c73b25"/>
+    </g>
+  </g>
+</svg>
